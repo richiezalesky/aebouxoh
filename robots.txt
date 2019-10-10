@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pohseibaej.bakerstreet.club/sitemap.xml
